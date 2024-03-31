@@ -3,8 +3,7 @@
 Welcome to my 75Hard Coding Challenge repository! Join me on this exhilarating journey as I push the boundaries of my coding skills, one day at a time. Get ready to witness the transformation unfold! 💻
 
 ## About the Challenge
-The 75Hard challenge, crafted by the indomitable Andy Frisella, is not for the faint of heart. It's a testament to mental fortitude and unwavering discipline. By intertwining coding practice into this crucible of resilience, I aim to forge myself into a coding powerhouse, mastering the art of Data Structures and Algorithms (DSA) while cultivating unwavering perseverance and grit. 🔥
-
+|| 🚩RAM RAM BHAI SAREYA NE🚩 ||
 ## Purpose of the Repository
 This repository isn't just a collection of code snippets; it's a chronicle of growth, a testament to dedication, and a beacon of inspiration. Here's why it exists:
 - **Daily Progress:** Witness my daily triumphs, struggles, and breakthroughs as I tackle coding challenges head-on. 🏋️‍♂️
